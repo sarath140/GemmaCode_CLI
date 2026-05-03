@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+gemcode/__init__.py
+gemcode/main.py
+gemmacode.egg-info/PKG-INFO
+gemmacode.egg-info/SOURCES.txt
+gemmacode.egg-info/dependency_links.txt
+gemmacode.egg-info/entry_points.txt
+gemmacode.egg-info/requires.txt
+gemmacode.egg-info/top_level.txt
